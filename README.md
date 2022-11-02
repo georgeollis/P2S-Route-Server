@@ -82,5 +82,4 @@ Once this is complete we can test the P2S connection from the Azure VPN client a
      width="600" 
 />
 
-
 If we compare the routes now being advertised to the routes being advertised by Cisco Meraki, we can confirm that this is successfully working and users can connect to on-premises resources. If this helps please let me know!
